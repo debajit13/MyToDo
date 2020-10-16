@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Todo</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div class="controls">
+        <h1>My TODO</h1>
+        <input type="text" id="input" /><br />
+        <button type="button" id="add">Add</button>
+        <button type="button" id="remove">Remove</button>
+      </div>
+      <ul id="list">
+        <li class="mycheck">
+          <input type="checkbox" id="check" />
+          <label>Wake up at 9 A.M.</label>
+        </li>
+        <li class="mycheck">
+          <input type="checkbox" id="check" checked />
+          <label>Interview Prep</label>
+        </li>
+        <li class="mycheck">
+          <input type="checkbox" id="check" checked />
+          <label>Make launch</label>
+        </li>
+      </ul>
+    </div>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>
