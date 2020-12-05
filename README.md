@@ -6,15 +6,19 @@
 
 An HTML, CSS and JS based todolist where you can add your tasks and delete done tasks
 
-# Motivation
+---
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/MyToDo/graphs/commit-activity)[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://debajit13.github.io/MyToDo/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/MyToDo/pulls) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+## Motivation
 
 Create this website to apply basic concepts of JavaScript and help others to start their journey in Web Development.
 
-# Screenshots
+## Screenshots
 
 <img src="assets/screenshot.png">
 
-# Tech/ Framework Used
+## Tech/ Framework Used
 
 **Built with**
 
@@ -22,11 +26,7 @@ Create this website to apply basic concepts of JavaScript and help others to sta
 1. [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-# Code Style
-
-You can follow the [JavaScript style guides](https://google.github.io/styleguide/jsguide.html) by Google
-
-# How to use?
+## How to use?
 
 If you want to use the website just go to this [link](https://debajit13.github.io/MyToDo/)
 
@@ -34,11 +34,8 @@ If you want to use the website just go to this [link](https://debajit13.github.i
 - If you want mark any task as done just click on the todo and it marks it as done.
 - If you want to delete all the done todo just click on the Remove button.
 
-# How to contribute?
+## Want To Be a Contributor?
 
-1. Fork the project.
-1. Create a different branch.
-1. Add your code to that branch.
-1. Create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 <p align="center">Made with :heart: and :coffee: by Debajit Mallick</p>
