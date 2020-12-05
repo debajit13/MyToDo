@@ -8,7 +8,7 @@ An HTML, CSS and JS based todolist where you can add your tasks and delete done 
 
 ---
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/MyToDo/graphs/commit-activity)[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://debajit13.github.io/MyToDo/)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/MyToDo/pulls) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/debajit13/MyToDo/graphs/commit-activity) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://debajit13.github.io/MyToDo/) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/debajit13/MyToDo/pulls) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ## Motivation
 
